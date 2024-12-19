@@ -1,0 +1,1 @@
+This error occurs when using Expo's `Linking` API to open a URL in a different app. The error message is usually something like `Error: could not open URL in external app`. This can happen due to a variety of reasons, including incorrect URL formatting, the target app not being installed, or permission issues.
